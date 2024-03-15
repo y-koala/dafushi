@@ -21,7 +21,7 @@ var bootstrap_esm = __webpack_require__(138);
 
 function changetext(index) {}
 var nav = document.getElementsByClassName('nav-li');
-var list = document.getElementsByClassName('text-content');
+var list = document.getElementsByClassName('text-content1');
 console.log(nav);
 var _loop = function _loop(j) {
   nav[j].addEventListener("click", function (e) {
@@ -196,4 +196,4 @@ for (var j = 0; j < nav.length; j++) {
 /******/ 	
 /******/ })()
 ;
-//# sourceMappingURL=provide.77bd5945f1913af70e23.js.map
+//# sourceMappingURL=provide.f8e937e9e9c75c0fef4f.js.map
